@@ -1,2 +1,2 @@
-console.log("this is config");
-console.log("version 16");
+console.log("config");
+console.log("version 1");
