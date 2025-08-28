@@ -1,2 +1,2 @@
-console.log("this is script");
-console.log("version 16");
+console.log("script");
+console.log("version 1");

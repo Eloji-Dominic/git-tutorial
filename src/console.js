@@ -1,2 +1,2 @@
-console.log("this is console");
-console.log("upgraded version");
+console.log("console");
+console.log("version 1");
